@@ -182,9 +182,9 @@ const words=[
 
 "Web Developer",
 
-"IT Officer",
+"IT Officer (KSPI)",
 
-"Physics Instructor"
+"Physics Instructor (KSPI)"
 
 ];
 
